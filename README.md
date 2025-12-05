@@ -67,21 +67,6 @@ I love tech, teaching, and dreaming about my next **migration plan ✈️**.
 </div>
 
 
----
-
-### 📊 The Flex (Stats)
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadarbabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohammad's Stats" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadarbabi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadarbabi&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
 
 ---
 
