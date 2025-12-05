@@ -54,7 +54,6 @@ I love tech, teaching, and dreaming about my next **migration plan ✈️**.
 | ChatGPT, MidJourney, Auto-GPT | WordPress, HTML/CSS, Python (Medium Rare) | Premiere Pro, Photoshop, YouTube Growth |
 
 ---
----
 
 <div align="center">
 
@@ -67,7 +66,7 @@ I love tech, teaching, and dreaming about my next **migration plan ✈️**.
 
 </div>
 
----
+
 ---
 
 ### 📊 The Flex (Stats)
