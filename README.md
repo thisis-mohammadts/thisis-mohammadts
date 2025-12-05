@@ -57,16 +57,23 @@ I love tech, teaching, and dreaming about my next **migration plan ✈️**.
 
 <div align="center">
 
-  ## 👥 Me & The Bros
- 
+  ## 👥 Me & My Bros  
+  **Me, Amirreza, and M.C — three dudes coding, laughing, breaking stuff, and somehow fixing it again 😎🔥**
 
   <br/>
 
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="friendship gif" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350" alt="friendship gif" />
+
+  <br/><br/>
+
+  <!-- Bros Links -->
+  <sub>
+    <b>My boys:</b><br/>
+    🔗 <a href="https://github.com/mc-programmer" target="_blank">M.C — Master of Chaos</a><br/>
+    🔗 <a href="https://github.com/amirrezavaladkhani" target="_blank">Amirreza — Bug Summoner</a><br/>
+  </sub>
 
 </div>
-
-
 
 ---
 
