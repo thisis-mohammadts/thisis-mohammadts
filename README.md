@@ -58,7 +58,7 @@ I love tech, teaching, and dreaming about my next **migration plan ✈️**.
 <div align="center">
 
   ## 👥 Me & My Bros  
-  **Me, Amirreza, and M.C — three dudes coding, laughing, breaking stuff, and somehow fixing it again 😎🔥**
+  **Me, Amirreza, and mehdi — three dudes coding, laughing, breaking stuff, and somehow fixing it again 😎🔥**
 
   <br/>
 
