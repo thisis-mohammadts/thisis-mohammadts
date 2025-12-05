@@ -32,8 +32,6 @@ I love tech, teaching, and dreaming about my next **migration plan ✈️**.
 
 * 🔭 **Currently working on:** AI Automation (because doing things manually is so 2010).
 * 🌱 **Learning:** How to crack the YouTube algorithm without losing my mind.
-* ⚡ **Hot Take:** WordPress is immortal, fight me.
-* 🤔 **Current Mood:** **Code. Coffee. Create. Repeat.**
 
 ---
 
