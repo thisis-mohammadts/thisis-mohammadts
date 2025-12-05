@@ -1,70 +1,84 @@
-<!-- Profile Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
-  <h1>Hey there, I'm <span style="color:#00bcd4;">Mohammad</span> 👨‍💻</h1>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
-  <p>A Computer Engineer • Content Creator • Teacher • AI Explorer</p>
+
+  <img src="https://media.giphy.com/media/hrRJ41JB2zlg9vUJvr/giphy.gif" width="600" alt="coding gif" />
+
+  # Yo! This is Mohammad Mahdi Arbabi 👋
+  ### 💻 Computer Engineer | 🎓 Instructor | 🎬 Content Creator
+
+  <p>
+    <b>"I turn coffee into code and confusion into content."</b>
+  </p>
+
+  ---
+
+  <a href="https://www.linkedin.com/in/mohammad-mahdi-arbabi-aabb8535a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/thisis_mohammadts?igsh=bnF0Z25sMHFlZGFr">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@thranduil-plays?si=TZLsF-pLg_gf_7KG">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
 </div>
 
 ---
 
-<!-- About Section -->
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-</p>
+### 🧐 About Me (The Unfiltered Version)
 
-- 🎓 Computer Engineering student  
-- 🎥 YouTuber (King Thranduil – 1.2k subs)  
-- 💻 WordPress dev + light coding  
-- 🤖 Love automating everything with AI tools  
-- ⚡ Always grinding, always leveling up
+I'm **Mohammad Mahdi**. A Computer Engineer who is just trying to automate his entire life so I can sleep more. 
+I love tech, teaching, and dreaming about my next **migration plan ✈️**.
+
+* 🔭 **Currently working on:** AI Automation (because doing things manually is so 2010).
+* 🌱 **Learning:** How to crack the YouTube algorithm without losing my mind.
+* ⚡ **Hot Take:** WordPress is immortal, fight me.
+* 🤔 **Current Mood:** **Code. Coffee. Create. Repeat.**
 
 ---
 
-<!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
+### 🛠️ The Arsenal (My Tools)
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,wordpress,git,github,vscode" />
+  <p>Things I use to build stuff (and break stuff):</p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,python,git,github,vscode,ai,pr,ps" alt="My Skills" />
+  </a>
+</div>
+
+<br/>
+
+| 🤖 AI & Automation | 💻 Web & Coding | 🎬 Content Creation |
+| :---: | :---: | :---: |
+| ChatGPT, MidJourney, Auto-GPT | WordPress, HTML/CSS, Python (Medium Rare) | Premiere Pro, Photoshop, YouTube Growth |
+
+---
+
+### 📊 The Flex (Stats)
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadarbabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohammad's Stats" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadarbabi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadarbabi&theme=tokyonight&hide_border=true" alt="Streak" />
+
 </div>
 
 ---
 
-<!-- Projects / Work -->
-<h2 align="center">🔥 What I'm Working On</h2>
-
-- Automating workflows with AI & n8n  
-- Migrating a large news website to WordPress  
-- Running a Minecraft + web server on Ubuntu  
-- Teaching YouTube growth & content creation
-
----
-
-<!-- Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
-</div>
 
----
+  ### 🚀 Vibe Check
+  If you're looking for someone who can get the job done and crack a joke while the server is burning down, I'm your guy.
+  <br/>
+  
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="funny cat" />
+  
+  <p><b>Don't forget to star ⭐ this repo! It boosts my dopamine levels.</b></p>
 
-<!-- Social -->
-<h2 align="center">🌐 Socials</h2>
-<div align="center">
-  <a href="https://youtube.com/@kingthranduil"><img src="https://skillicons.dev/icons?i=youtube" width="50"/></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
-  <a href="https://github.com/YOUR_GITHUB"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-</div>
-
----
-
-<!-- Fun -->
-<h2 align="center">⚡ Fun Fact</h2>
-<p align="center">I'm always learning something new — from RP rules to servers to AI. Stay curious 😎✨</p>
-
-<!-- Footer GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" />
 </div>
