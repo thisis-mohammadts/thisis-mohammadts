@@ -69,7 +69,7 @@ I love tech, teaching, and dreaming about my next **migration plan ✈️**.
   <!-- Bros Links -->
   <sub>
     <b>My boys:</b><br/>
-    🔗 <a href="https://github.com/mc-programmer" target="_blank">M.C — Master of Chaos</a><br/>
+    🔗 <a href="https://github.com/mc-programmer" target="_blank">Mehdi — Master of Chaos</a><br/>
     🔗 <a href="https://github.com/amirrezavaladkhani" target="_blank">Amirreza — Bug Summoner</a><br/>
   </sub>
 
