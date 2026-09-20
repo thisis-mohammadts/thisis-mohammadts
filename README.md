@@ -2,83 +2,80 @@
   <img src="./assets/profile-banner.svg" alt="Mohammad Mahdi Arbabi" width="100%" />
 </p>
 
-# Mohammad Mahdi Arbabi
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=1100&color=94A3B8&center=true&vCenter=true&width=760&lines=Computer+Engineering+%C2%B7+Web+%C2%B7+Automation;Instructor+%C2%B7+Content+Creator;Building+useful+digital+experiences"
+    alt="Profile intro"
+  />
+</p>
 
-I build at the intersection of **software, product, automation, and media**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-mahdi-arbabi-aabb8535a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/thisis_mohammadts">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/results?search_query=Lyrica+Ultra+Funk">
+    <img src="https://img.shields.io/badge/Lyrica_Ultra_Funk-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lyrica Ultra Funk on YouTube" />
+  </a>
+</p>
 
-I'm a Computer Engineering student, instructor, web developer, and content creator. I care about making things that feel intentional — technically solid, visually clean, and actually useful.
+---
+
+## About
+
+I'm **Mohammad Mahdi Arbabi** — a Computer Engineering student, instructor, web developer, and content creator.
+
+I enjoy working where **engineering, product thinking, automation, and communication** meet. I care about building things that are technically solid, visually clean, easy to use, and purposeful.
 
 > **Can this be made faster, cleaner, smarter, or more useful?**
 
-That question shapes the way I work.
+That question is usually where I start.
 
----
-
-## The stuff I actually use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,wordpress,git,github,vscode,ps,pr" alt="Tech stack" />
-</p>
-
-**Development**  
-Python, FastAPI, JavaScript, HTML/CSS, PHP, WordPress, Git
-
-**Product & Automation**  
-API integrations, workflow automation, AI-assisted development, prototyping, testing
-
-**Creative**  
-Premiere Pro, Photoshop, YouTube production, channel strategy, visual direction
-
----
-
-## How I work
-
-I like combining engineering with product thinking.
-
-That usually means caring about more than whether something simply works — I also care about how it feels to use, how easy it is to maintain, how clearly it communicates its purpose, and whether there is a smarter way to build it.
-
-I’m especially interested in work that blends **technology, design, automation, experimentation, and communication**.
-
----
-
-## Outside pure coding
-
-I also teach and create content.
-
-Teaching has made me care a lot about clarity. Content creation has made me think more deeply about attention, storytelling, pacing, and how people actually interact with information.
-
-That mix of **engineering + communication + experimentation** is a big part of how I approach everything I build.
-
----
-
-## What I'm into
-
-- web development and product systems
-- automation and AI-assisted workflows
-- APIs, integrations, and backend logic
-- UI/UX and product design
-- game systems and interactive experiences
-- digital content and YouTube
-- learning by building real things
-
----
-
-## Find me
-
-<p>
-  <a href="https://www.linkedin.com/in/mohammad-mahdi-arbabi-aabb8535a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/thisis_mohammadts">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@thranduil-plays">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+<p align="center">
+  <img src="./assets/core-areas.svg" alt="Core areas" width="100%" />
 </p>
 
 ---
 
-<sub>
-Always learning, always experimenting, always trying to make the next thing better than the last.
-</sub>
+## Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,php,wordpress,git,github,vscode,ps,pr" alt="Technology and creative toolkit" />
+</p>
+
+<p align="center">
+  <code>Python</code> ·
+  <code>FastAPI</code> ·
+  <code>JavaScript</code> ·
+  <code>PHP</code> ·
+  <code>WordPress</code> ·
+  <code>APIs</code> ·
+  <code>Automation</code> ·
+  <code>Git</code>
+</p>
+
+---
+
+## Beyond code
+
+Teaching and content creation are a big part of how I think about technology.
+
+They've taught me to value **clarity, structure, attention to detail, and communication** just as much as implementation.
+
+I also run **[Lyrica Ultra Funk](https://www.youtube.com/results?search_query=Lyrica+Ultra+Funk)**, a YouTube music channel built around a distinct visual identity and high-energy content.
+
+---
+
+## What I care about
+
+`Useful products` · `Clean UX` · `Automation` · `AI workflows` · `Web systems` · `Teaching` · `Digital media`
+
+---
+
+<p align="center">
+  <sub>
+    Build clearly. Learn constantly. Make the next version better.
+  </sub>
+</p>
