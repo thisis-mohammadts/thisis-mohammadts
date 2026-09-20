@@ -4,38 +4,13 @@
 
 # Mohammad Mahdi Arbabi
 
-I like building things that sit somewhere between **software, product, automation, and media**.
+I build at the intersection of **software, product, automation, and media**.
 
-I'm a Computer Engineering student, instructor, web developer, and content creator. Most of my work starts with a simple question:
+I'm a Computer Engineering student, instructor, web developer, and content creator. I care about making things that feel intentional — technically solid, visually clean, and actually useful.
 
 > **Can this be made faster, cleaner, smarter, or more useful?**
 
-That question has taken me from WordPress products and AI-assisted workflows to algorithmic trading systems, game prototypes, and YouTube projects.
-
----
-
-## What I’m building
-
-### Therapio
-A psychology-focused web product built around a custom WordPress stack.
-
-I work across the product itself — interface, onboarding, authentication flows, subscriptions, dashboards, testing systems, and the less glamorous debugging that makes everything actually hold together.
-
-**Focus:** WordPress · PHP · JavaScript · UI/UX · product systems
-
-### Atlas / AutoPilot
-An experimental quantitative trading platform built around Python and MetaTrader 5.
-
-The project includes market structure analysis, risk and position logic, backtesting, paper execution, data pipelines, and a FastAPI-based engine.
-
-**Focus:** Python · FastAPI · MT5 · quantitative systems · automation
-
-### Paper Siege
-A strategy game concept I’m developing around a hand-drawn / line-art visual identity, persistent worlds, economy systems, clans, and short competitive game modes.
-
-It’s also my excuse to learn game architecture by actually building one.
-
-**Focus:** game systems · multiplayer concepts · economy design · prototyping
+That question shapes the way I work.
 
 ---
 
@@ -56,24 +31,35 @@ Premiere Pro, Photoshop, YouTube production, channel strategy, visual direction
 
 ---
 
+## How I work
+
+I like combining engineering with product thinking.
+
+That usually means caring about more than whether something simply works — I also care about how it feels to use, how easy it is to maintain, how clearly it communicates its purpose, and whether there is a smarter way to build it.
+
+I’m especially interested in work that blends **technology, design, automation, experimentation, and communication**.
+
+---
+
 ## Outside pure coding
 
 I also teach and create content.
 
-I’ve spent a lot of time studying how people learn, why content gets watched, and how technical ideas can be explained without making them sound unnecessarily complicated.
+Teaching has made me care a lot about clarity. Content creation has made me think more deeply about attention, storytelling, pacing, and how people actually interact with information.
 
-That mix of **engineering + communication + experimentation** is probably the most accurate description of what I do.
+That mix of **engineering + communication + experimentation** is a big part of how I approach everything I build.
 
 ---
 
-## Currently
+## What I'm into
 
-- building and improving **Therapio**
-- developing the **Atlas / AutoPilot** trading engine
-- prototyping **Paper Siege**
-- experimenting with AI workflows and automation
-- growing media projects around YouTube and digital content
-- getting better at turning unfinished ideas into shipped work
+- web development and product systems
+- automation and AI-assisted workflows
+- APIs, integrations, and backend logic
+- UI/UX and product design
+- game systems and interactive experiences
+- digital content and YouTube
+- learning by building real things
 
 ---
 
@@ -94,5 +80,5 @@ That mix of **engineering + communication + experimentation** is probably the mo
 ---
 
 <sub>
-I’m interested in ambitious products, useful automation, weird experiments, and projects that teach me something new.
+Always learning, always experimenting, always trying to make the next thing better than the last.
 </sub>
