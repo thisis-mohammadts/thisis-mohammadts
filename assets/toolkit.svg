@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Mohammad Mahdi Arbabi toolkit">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset=".55" stop-color="#0c1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0c1424"/>
+      <stop offset="1" stop-color="#0a101d"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity=".025"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1080" cy="42" r="90" fill="#8b5cf6" opacity=".08" filter="url(#glow)">
+    <animate attributeName="opacity" values=".04;.11;.04" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="115" cy="392" r="100" fill="#22d3ee" opacity=".07" filter="url(#glow)">
+    <animate attributeName="opacity" values=".10;.035;.10" dur="6.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="48" y="58" fill="#f8fafc" font-size="27" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif">TOOLKIT</text>
+  <text x="171" y="58" fill="#64748b" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" letter-spacing="1.4">WHAT I ACTUALLY WORK WITH</text>
+  <rect x="48" y="76" width="1104" height="2" rx="1" fill="#fff" opacity=".06"/>
+  <rect x="48" y="76" width="210" height="2" rx="1" fill="url(#accent)">
+    <animate attributeName="x" values="48;942;48" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;.9;.25" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- WEB -->
+  <g transform="translate(48 106)">
+    <rect width="258" height="264" rx="22" fill="url(#card)" stroke="#fff" stroke-opacity=".07"/>
+    <circle cx="28" cy="29" r="5" fill="#22d3ee">
+      <animate attributeName="r" values="4;7;4" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="44" y="36" fill="#e2e8f0" font-size="16" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif">WEB &amp; CMS</text>
+    <text x="22" y="76" fill="#64748b" font-size="12" font-family="monospace">FRONTEND / WORDPRESS</text>
+
+    <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#cbd5e1">
+      <g transform="translate(20 101)"><rect width="102" height="34" rx="17" fill="#fff" opacity=".045"/><text x="15" y="22">WordPress</text></g>
+      <g transform="translate(132 101)"><rect width="72" height="34" rx="17" fill="#fff" opacity=".045"/><text x="20" y="22">PHP</text></g>
+      <g transform="translate(20 145)"><rect width="88" height="34" rx="17" fill="#fff" opacity=".045"/><text x="18" y="22">JavaScript</text></g>
+      <g transform="translate(118 145)"><rect width="60" height="34" rx="17" fill="#fff" opacity=".045"/><text x="16" y="22">HTML</text></g>
+      <g transform="translate(20 189)"><rect width="58" height="34" rx="17" fill="#fff" opacity=".045"/><text x="16" y="22">CSS</text></g>
+      <g transform="translate(88 189)"><rect width="90" height="34" rx="17" fill="#fff" opacity=".045"/><text x="17" y="22">UI / UX</text></g>
+    </g>
+
+    <rect x="20" y="238" width="210" height="3" rx="1.5" fill="#22d3ee" opacity=".18"/>
+    <rect x="20" y="238" width="58" height="3" rx="1.5" fill="#22d3ee">
+      <animate attributeName="x" values="20;172;20" dur="5.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- BACKEND -->
+  <g transform="translate(330 106)">
+    <rect width="258" height="264" rx="22" fill="url(#card)" stroke="#fff" stroke-opacity=".07"/>
+    <circle cx="28" cy="29" r="5" fill="#38bdf8">
+      <animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="44" y="36" fill="#e2e8f0" font-size="16" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif">BACKEND &amp; DATA</text>
+    <text x="22" y="76" fill="#64748b" font-size="12" font-family="monospace">PYTHON / API / DATA</text>
+
+    <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#cbd5e1">
+      <g transform="translate(20 101)"><rect width="78" height="34" rx="17" fill="#fff" opacity=".045"/><text x="17" y="22">Python</text></g>
+      <g transform="translate(108 101)"><rect width="85" height="34" rx="17" fill="#fff" opacity=".045"/><text x="15" y="22">FastAPI</text></g>
+      <g transform="translate(20 145)"><rect width="92" height="34" rx="17" fill="#fff" opacity=".045"/><text x="16" y="22">REST API</text></g>
+      <g transform="translate(122 145)"><rect width="76" height="34" rx="17" fill="#fff" opacity=".045"/><text x="16" y="22">MySQL</text></g>
+      <g transform="translate(20 189)"><rect width="76" height="34" rx="17" fill="#fff" opacity=".045"/><text x="15" y="22">SQLite</text></g>
+      <g transform="translate(106 189)"><rect width="82" height="34" rx="17" fill="#fff" opacity=".045"/><text x="15" y="22">JSON</text></g>
+    </g>
+
+    <path d="M20 240 C68 220,102 254,145 233 S203 223,230 240" fill="none" stroke="#38bdf8" stroke-width="2" opacity=".35" stroke-dasharray="260" stroke-dashoffset="260">
+      <animate attributeName="stroke-dashoffset" values="260;0;0" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- WORKFLOW -->
+  <g transform="translate(612 106)">
+    <rect width="258" height="264" rx="22" fill="url(#card)" stroke="#fff" stroke-opacity=".07"/>
+    <circle cx="28" cy="29" r="5" fill="#60a5fa">
+      <animate attributeName="r" values="5;8;5" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="44" y="36" fill="#e2e8f0" font-size="16" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif">WORKFLOW</text>
+    <text x="22" y="76" fill="#64748b" font-size="12" font-family="monospace">TOOLS / AUTOMATION</text>
+
+    <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#cbd5e1">
+      <g transform="translate(20 101)"><rect width="58" height="34" rx="17" fill="#fff" opacity=".045"/><text x="18" y="22">Git</text></g>
+      <g transform="translate(88 101)"><rect width="82" height="34" rx="17" fill="#fff" opacity=".045"/><text x="14" y="22">GitHub</text></g>
+      <g transform="translate(20 145)"><rect width="86" height="34" rx="17" fill="#fff" opacity=".045"/><text x="15" y="22">VS Code</text></g>
+      <g transform="translate(116 145)"><rect width="108" height="34" rx="17" fill="#fff" opacity=".045"/><text x="13" y="22">PowerShell</text></g>
+      <g transform="translate(20 189)"><rect width="66" height="34" rx="17" fill="#fff" opacity=".045"/><text x="16" y="22">WAMP</text></g>
+      <g transform="translate(96 189)"><rect width="116" height="34" rx="17" fill="#fff" opacity=".045"/><text x="13" y="22">AI Workflows</text></g>
+    </g>
+
+    <g transform="translate(20 239)" fill="#60a5fa">
+      <circle cx="0" cy="0" r="3"/>
+      <circle cx="36" cy="0" r="3" opacity=".55"/>
+      <circle cx="72" cy="0" r="3" opacity=".3"/>
+      <path d="M3 0H33M39 0H69" stroke="#60a5fa" stroke-opacity=".35"/>
+      <animateTransform attributeName="transform" type="translate" values="20 239;156 239;20 239" dur="6s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- CREATIVE -->
+  <g transform="translate(894 106)">
+    <rect width="258" height="264" rx="22" fill="url(#card)" stroke="#fff" stroke-opacity=".07"/>
+    <circle cx="28" cy="29" r="5" fill="#8b5cf6">
+      <animate attributeName="opacity" values=".3;1;.3" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="44" y="36" fill="#e2e8f0" font-size="16" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif">CREATIVE</text>
+    <text x="22" y="76" fill="#64748b" font-size="12" font-family="monospace">MEDIA / VISUALS</text>
+
+    <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#cbd5e1">
+      <g transform="translate(20 101)"><rect width="114" height="34" rx="17" fill="#fff" opacity=".045"/><text x="14" y="22">Premiere Pro</text></g>
+      <g transform="translate(20 145)"><rect width="98" height="34" rx="17" fill="#fff" opacity=".045"/><text x="15" y="22">Photoshop</text></g>
+      <g transform="translate(128 145)"><rect width="94" height="34" rx="17" fill="#fff" opacity=".045"/><text x="14" y="22">YouTube</text></g>
+      <g transform="translate(20 189)"><rect width="118" height="34" rx="17" fill="#fff" opacity=".045"/><text x="14" y="22">Visual Direction</text></g>
+    </g>
+
+    <rect x="20" y="238" width="210" height="3" rx="1.5" fill="#8b5cf6" opacity=".16"/>
+    <rect x="20" y="238" width="42" height="3" rx="1.5" fill="#8b5cf6">
+      <animate attributeName="width" values="42;128;42" dur="4.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="48" y="405" fill="#475569" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" letter-spacing="1.3">
+    BUILD · CONNECT · AUTOMATE · CREATE
+  </text>
+</svg>
