@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Mohammad Mahdi Arbabi profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#15102a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#ffffff" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="26" fill="url(#grid)"/>
+
+  <circle cx="1040" cy="70" r="95" fill="#22d3ee" opacity=".08" filter="url(#glow)"/>
+  <circle cx="1110" cy="270" r="115" fill="#8b5cf6" opacity=".09" filter="url(#glow)"/>
+
+  <rect x="74" y="63" width="78" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="74" y="128" fill="#f8fafc" font-size="48" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif" letter-spacing="1">
+    MOHAMMAD MAHDI ARBABI
+  </text>
+  <text x="76" y="175" fill="#aab5c5" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif">
+    Product-minded builder · Computer Engineering · Instructor · Creator
+  </text>
+  <text x="76" y="226" fill="#e2e8f0" font-size="20" font-family="Inter,Segoe UI,Arial,sans-serif">
+    turning ideas into products, systems &amp; things people can actually use.
+  </text>
+
+  <g transform="translate(890 84)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 88 C55 16, 112 18, 164 67 S257 123, 292 50" stroke="url(#accent)" stroke-width="3" opacity=".9"/>
+    <circle cx="0" cy="88" r="9" fill="#0b1020" stroke="#22d3ee" stroke-width="3"/>
+    <circle cx="94" cy="38" r="9" fill="#0b1020" stroke="#5ee7f5" stroke-width="3"/>
+    <circle cx="164" cy="67" r="9" fill="#0b1020" stroke="#8b5cf6" stroke-width="3"/>
+    <circle cx="247" cy="91" r="9" fill="#0b1020" stroke="#9d72f8" stroke-width="3"/>
+    <circle cx="292" cy="50" r="9" fill="#0b1020" stroke="#8b5cf6" stroke-width="3"/>
+  </g>
+
+  <text x="76" y="295" fill="#64748b" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" letter-spacing="1.2">
+    WEB / AUTOMATION / TRADING SYSTEMS / GAME DEV / CONTENT
+  </text>
+</svg>
