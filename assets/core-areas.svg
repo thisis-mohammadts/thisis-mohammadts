@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Core areas">
+  <defs>
+    <linearGradient id="stroke" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="fill" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="250" rx="24" fill="#070b14"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(30 28)">
+      <rect width="270" height="194" rx="20" fill="url(#fill)" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="20" y="21" width="44" height="4" rx="2" fill="#22d3ee">
+        <animate attributeName="width" values="32;54;44" dur="4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="20" y="76" fill="#f8fafc" font-size="23" font-weight="700">Web &amp; Product</text>
+      <text x="20" y="111" fill="#94a3b8" font-size="15">Clean interfaces, practical</text>
+      <text x="20" y="134" fill="#94a3b8" font-size="15">systems and usable products.</text>
+      <text x="20" y="171" fill="#64748b" font-size="13" font-family="monospace">BUILD / REFINE</text>
+    </g>
+
+    <g transform="translate(320 28)">
+      <rect width="270" height="194" rx="20" fill="url(#fill)" stroke="#ffffff" stroke-opacity=".08"/>
+      <circle cx="43" cy="23" r="12" fill="#38bdf8" opacity=".2" filter="url(#glow)">
+        <animate attributeName="opacity" values=".1;.35;.1" dur="3.5s" repeatCount="indefinite"/>
+      </circle>
+      <rect x="20" y="21" width="44" height="4" rx="2" fill="#38bdf8"/>
+      <text x="20" y="76" fill="#f8fafc" font-size="23" font-weight="700">Automation</text>
+      <text x="20" y="111" fill="#94a3b8" font-size="15">Smarter workflows, APIs</text>
+      <text x="20" y="134" fill="#94a3b8" font-size="15">and less repetitive work.</text>
+      <text x="20" y="171" fill="#64748b" font-size="13" font-family="monospace">CONNECT / OPTIMIZE</text>
+    </g>
+
+    <g transform="translate(610 28)">
+      <rect width="270" height="194" rx="20" fill="url(#fill)" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="20" y="21" width="44" height="4" rx="2" fill="#60a5fa"/>
+      <text x="20" y="76" fill="#f8fafc" font-size="23" font-weight="700">Teaching</text>
+      <text x="20" y="111" fill="#94a3b8" font-size="15">Technical ideas explained</text>
+      <text x="20" y="134" fill="#94a3b8" font-size="15">with clarity and structure.</text>
+      <text x="20" y="171" fill="#64748b" font-size="13" font-family="monospace">LEARN / EXPLAIN</text>
+    </g>
+
+    <g transform="translate(900 28)">
+      <rect width="270" height="194" rx="20" fill="url(#fill)" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="20" y="21" width="44" height="4" rx="2" fill="#8b5cf6">
+        <animate attributeName="x" values="20;28;20" dur="4.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="20" y="76" fill="#f8fafc" font-size="23" font-weight="700">Content</text>
+      <text x="20" y="111" fill="#94a3b8" font-size="15">Digital media, audience</text>
+      <text x="20" y="134" fill="#94a3b8" font-size="15">thinking and visual direction.</text>
+      <text x="20" y="171" fill="#64748b" font-size="13" font-family="monospace">CREATE / COMMUNICATE</text>
+    </g>
+  </g>
+
+  <rect x="30" y="237" width="1140" height="2" rx="1" fill="url(#stroke)" opacity=".45">
+    <animate attributeName="opacity" values=".2;.65;.2" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
