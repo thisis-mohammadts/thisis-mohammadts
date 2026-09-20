@@ -1,88 +1,98 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Mohammad Mahdi Arbabi" width="100%" />
+</p>
 
-  <img src="https://media.giphy.com/media/hrRJ41JB2zlg9vUJvr/giphy.gif" width="600" alt="coding gif" />
+# Mohammad Mahdi Arbabi
 
-  # Yo! This is Mohammad Mahdi Arbabi 👋
-  ### 💻 Computer Engineer | 🎓 Instructor | 🎬 Content Creator
+I like building things that sit somewhere between **software, product, automation, and media**.
 
-  <p>
-    <b>"I turn coffee into code and confusion into content."</b>
-  </p>
+I'm a Computer Engineering student, instructor, web developer, and content creator. Most of my work starts with a simple question:
 
-  ---
+> **Can this be made faster, cleaner, smarter, or more useful?**
 
+That question has taken me from WordPress products and AI-assisted workflows to algorithmic trading systems, game prototypes, and YouTube projects.
+
+---
+
+## What I’m building
+
+### Therapio
+A psychology-focused web product built around a custom WordPress stack.
+
+I work across the product itself — interface, onboarding, authentication flows, subscriptions, dashboards, testing systems, and the less glamorous debugging that makes everything actually hold together.
+
+**Focus:** WordPress · PHP · JavaScript · UI/UX · product systems
+
+### Atlas / AutoPilot
+An experimental quantitative trading platform built around Python and MetaTrader 5.
+
+The project includes market structure analysis, risk and position logic, backtesting, paper execution, data pipelines, and a FastAPI-based engine.
+
+**Focus:** Python · FastAPI · MT5 · quantitative systems · automation
+
+### Paper Siege
+A strategy game concept I’m developing around a hand-drawn / line-art visual identity, persistent worlds, economy systems, clans, and short competitive game modes.
+
+It’s also my excuse to learn game architecture by actually building one.
+
+**Focus:** game systems · multiplayer concepts · economy design · prototyping
+
+---
+
+## The stuff I actually use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,wordpress,git,github,vscode,ps,pr" alt="Tech stack" />
+</p>
+
+**Development**  
+Python, FastAPI, JavaScript, HTML/CSS, PHP, WordPress, Git
+
+**Product & Automation**  
+API integrations, workflow automation, AI-assisted development, prototyping, testing
+
+**Creative**  
+Premiere Pro, Photoshop, YouTube production, channel strategy, visual direction
+
+---
+
+## Outside pure coding
+
+I also teach and create content.
+
+I’ve spent a lot of time studying how people learn, why content gets watched, and how technical ideas can be explained without making them sound unnecessarily complicated.
+
+That mix of **engineering + communication + experimentation** is probably the most accurate description of what I do.
+
+---
+
+## Currently
+
+- building and improving **Therapio**
+- developing the **Atlas / AutoPilot** trading engine
+- prototyping **Paper Siege**
+- experimenting with AI workflows and automation
+- growing media projects around YouTube and digital content
+- getting better at turning unfinished ideas into shipped work
+
+---
+
+## Find me
+
+<p>
   <a href="https://www.linkedin.com/in/mohammad-mahdi-arbabi-aabb8535a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/thisis_mohammadts?igsh=bnF0Z25sMHFlZGFr">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/thisis_mohammadts">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://youtube.com/@thranduil-plays?si=TZLsF-pLg_gf_7KG">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://youtube.com/@thranduil-plays">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-
-</div>
+</p>
 
 ---
 
-### 🧐 About Me (The Unfiltered Version)
-
-I'm **Mohammad Mahdi**. A Computer Engineer who is just trying to automate his entire life so I can sleep more. 
-I love tech, teaching, and dreaming about my next **migration plan ✈️**.
-
-* 🔭 **Currently working on:** AI Automation (because doing things manually is so 2010).
-* 🌱 **Learning:** How to crack the YouTube algorithm without losing my mind.
-
----
-
-### 🛠️ The Arsenal (My Tools)
-
-<div align="center">
-  <p>Things I use to build stuff (and break stuff):</p>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,python,git,github,vscode,ai,pr,ps" alt="My Skills" />
-  </a>
-</div>
-
-<br/>
-
-| 🤖 AI & Automation | 💻 Web & Coding | 🎬 Content Creation |
-| :---: | :---: | :---: |
-| ChatGPT, MidJourney, Auto-GPT | WordPress, HTML/CSS, Python (Medium Rare) | Premiere Pro, Photoshop, YouTube Growth |
-
----
-
-<div align="center">
-
-  ## 👥 Me & My Bros  
-  **Me, Amirreza, and mehdi — three dudes coding, laughing, breaking stuff, and somehow fixing it again 😎🔥**
-
-  <br/>
-
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350" alt="friendship gif" />
-
-  <br/><br/>
-
-  <!-- Bros Links -->
-  <sub>
-    <b>My boys:</b><br/>
-    🔗 <a href="https://github.com/mc-programmer" target="_blank">Mehdi — Master of Chaos</a><br/>
-    🔗 <a href="https://github.com/amirrezavaladkhani" target="_blank">Amirreza — Bug Summoner</a><br/>
-  </sub>
-
-</div>
-
----
-
-<div align="center">
-
-  ### 🚀 Vibe Check
-  If you're looking for someone who can get the job done and crack a joke while the server is burning down, I'm your guy.
-  <br/>
-  
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="funny cat" />
-  
-  <p><b>Don't forget to star ⭐ this repo! It boosts my dopamine levels.</b></p>
-
-</div>
+<sub>
+I’m interested in ambitious products, useful automation, weird experiments, and projects that teach me something new.
+</sub>
