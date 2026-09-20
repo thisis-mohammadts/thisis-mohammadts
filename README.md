@@ -42,18 +42,13 @@ That question is usually where I start.
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,php,wordpress,git,github,vscode,ps,pr" alt="Technology and creative toolkit" />
+  <img src="./assets/toolkit.svg" alt="Mohammad Mahdi Arbabi toolkit" width="100%" />
 </p>
 
 <p align="center">
-  <code>Python</code> ·
-  <code>FastAPI</code> ·
-  <code>JavaScript</code> ·
-  <code>PHP</code> ·
-  <code>WordPress</code> ·
-  <code>APIs</code> ·
-  <code>Automation</code> ·
-  <code>Git</code>
+  <sub>
+    Web systems · Backend & APIs · Automation workflows · Databases · Local development · Creative production
+  </sub>
 </p>
 
 ---
