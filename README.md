@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/thisis_mohammadts">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/results?search_query=Lyrica+Ultra+Funk">
+  <a href="https://youtube.com/@lyricaultrafunk/">
     <img src="https://img.shields.io/badge/Lyrica_Ultra_Funk-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lyrica Ultra Funk on YouTube" />
   </a>
 </p>
@@ -64,7 +64,7 @@ Teaching and content creation are a big part of how I think about technology.
 
 They've taught me to value **clarity, structure, attention to detail, and communication** just as much as implementation.
 
-I also run **[Lyrica Ultra Funk](https://www.youtube.com/results?search_query=Lyrica+Ultra+Funk)**, a YouTube music channel built around a distinct visual identity and high-energy content.
+I also run **[Lyrica Ultra Funk](https://youtube.com/@lyricaultrafunk/)**, a YouTube music channel built around a distinct visual identity and high-energy content.
 
 ---
 
